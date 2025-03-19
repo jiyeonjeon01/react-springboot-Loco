@@ -29,6 +29,14 @@ React, SpringBoot, OracleDB를 활용한 소모임 커뮤니티 웹사이트. <b
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </p>
+<p><strong> Front: Oracle 21c <br></strong>
+<br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+</p>
+<p><strong> Backend: Oracle 21c <br></strong>
+<br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+</p>
 <p><strong> Repository <br></strong>
 <br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
